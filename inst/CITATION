@@ -1,0 +1,9 @@
+bibentry(
+  bibtype    = "Manual",
+  title    = "ioTree - Import oTree Data",
+  author   = "Zauchner, Patricia F.",
+  year     = "2023",
+  note     = "R package version 0.0.1",
+  url      = "https://github.com/ZauchnerP/ioTree",
+  textVersion = "Zauchner, Patricia F. (2023). ioTree - Import oTree Data. R package version 0.0.1, <https://github.com/ZauchnerP/ioTree/>"
+) 
