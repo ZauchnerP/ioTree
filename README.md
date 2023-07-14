@@ -3,7 +3,9 @@
   [![R-CMD-check](https://github.com/ZauchnerP/ioTree/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ZauchnerP/ioTree/actions/workflows/R-CMD-check.yaml)
   <!-- badges: end -->
 
-Handling data from online experiments made with oTree (https://www.otree.org/) can be challenging, especially when dealing with complex experimental designs that span multiple sessions and return numerous files that must be combined. This is where the ioTree package comes in. ioTree is not an official package of the oTree team but is built to complement the oTree open-source platform. It helps streamline the data processing workflow by providing tools designed to import, merge, and manage data from oTree experiments.
+ioTree is an R package developed for importing, merging, and efficiently managing data obtained from running oTree (https://www.otree.org/) experiments. It's particularly valuable when dealing with complex experimental designs that span multiple sessions and generate a large number of files that need to be integrated.
+
+ioTree is not an official package of the oTree team, but it was created to complement the open-source platform.
 
 ## About this version
 This is the beta version of the ioTree package!
