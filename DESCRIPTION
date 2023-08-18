@@ -7,7 +7,7 @@ Authors@R:
            comment = c(ORCID = "https://orcid.org/0000-0002-5938-1683"))
 Description: Import, merge, and manage data from oTree experiments.
 License: GPL (>= 3)
-URL: https://github.com/ZauchnerP/ioTree
+URL: https://zauchnerp.github.io/ioTree/, https://github.com/ZauchnerP/ioTree
 BugReports: https://github.com/ZauchnerP/ioTree/issues
 Depends: 
     R (>= 4.3.0)
